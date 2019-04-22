@@ -1,10 +1,11 @@
-#coursework
-this file contains alot of python sample code that 
-I have wrote while studing some course online ... 
+# Coursework
+this directory contains alot of python sample codes that 
+I have wrote while studing some courses online ... 
 all files are numbered 
 online course and websites : 
 	1>Python omega course : 00_ t0 38_
 	2>tutorials point : 39_ 
+	3>YouTube : 40_
 
 these samples and FULLY functional apps covers alot of topics : 
 
@@ -58,6 +59,4 @@ topics coverd :
 			it asks about your height , adds it to data base 
 			and send you back by email the average height
 		40_Flask_RESTfullAPI\app.py :"it's functional however it has not alot of features"
-			it's a basic api :there is a login system and  it has a data set of the users and admin can access it but he\she will see users password encrypted
-			
- 
+			it's a basic api :there is a login system and  it has a data set of the users and admin can access it but he\she 			 will see users password encrypted
