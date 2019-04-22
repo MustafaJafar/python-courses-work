@@ -1,0 +1,16 @@
+scrapping steps : 
+    1.get web page (following site structre)
+    2.parsing its text , tags
+    3.get data 
+
+difference between scrapping and crawling : 
+
+Scrapping :  I know what I came for , and I alread know a pattern and am following it
+    1.already know website pattern  , or site map
+    2.know the desired data 
+    3.get that data and ignore the rest
+
+Crawling : I don't know what I came for , and I am not sure if this data is valuable or not ! 
+    1.get website pattern , or recognizing site map  
+    2.scrapping based on that pattern
+    3.saving and manging data
