@@ -1,0 +1,36 @@
+to check installation open a python session and 
+import cv2 
+
+if you get no errors , thats mean you have installed 
+OpenCV successfully , if there are any errors : 
+
+for windows : 
+1.Uninstall openCV : 
+pip uninstall opencv-python 
+
+2.download a wheel file from 
+        http://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv
+
+pip install "the downloaded file name"
+
+3.try import opencv
+    if there an error try again 
+
+pip uninstall opencv-python
+
+4.it should work now ! 
+
+for linux : 
+1. 
+sudo apt-get install libqt4-dev
+cmake -D WITH_QT=ON ..
+make
+sudo make install
+
+2.if that doesn't work , Excute : 
+sudo apt-get install libopencv-*
+
+3.then try : 
+pip install opencv-python
+
+4.it should work now ! 

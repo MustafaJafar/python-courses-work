@@ -1,0 +1,14 @@
+after making changes in files . 
+in cmd : 
+    heroku login
+    heroku info
+      heroku git:remote --app my-app-name
+      heroku info
+      git add .
+      git commit -m "new changes in home page"
+      git push heroku master
+      heroku open
+
+-----
+if there is any errors try in cmd and read carefully 
+    heroku logs

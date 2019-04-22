@@ -1,0 +1,10 @@
+python virtual environments in which 
+    isolated python installation 
+        with its own libraries !
+
+--------------
+if you run this command : 
+    virtual/Scripts/activate
+the all python commands will be the virtual one 
+    pip install lib 
+this lib will be installed in the virtual folder 

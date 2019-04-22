@@ -1,0 +1,35 @@
+1.create a heroku account
+2.download heroku tool belt #control heroku from cmd , terminal
+3.in cmd 
+        heroku login
+        heroku create my-app-name --buildpack heroku/python
+        heroku apps
+4.you can visit your website : 
+     my-app-name.herokuapp.com
+5.preparation before uploading files to heroku : 
+    add these files to the project folder this project is "Demo"
+     1.create requirments.txt #your app required libraries
+        in cmd
+            ..\virtual\Scripts\pip install gunicorn 
+            ..\virtual\Scripts\pip freeze > requirements.txt
+     2.create Procfile
+       type in it : 
+            web: gunicorn scriptname:app
+     3.create runtime.txt
+        type in it : the current run time python version get it from : 
+            https://devcenter.heroku.com/articles/python-runtimes#supported-python-runtimes
+
+6.upload all files in the  project folder 
+        open cmd in project folder : 
+                git init
+                git add .
+                git commit -m "first commit"
+                heroku git:remote --app my-app-name
+                git push heroku master       $if there is an error
+                heroku open
+                heroku info
+                -----
+                git config --global user.email "your Email"
+                git config --global user.name "your name"
+                git push heroku master
+                

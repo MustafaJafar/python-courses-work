@@ -1,0 +1,23 @@
+#the idea based on : redirecting unwanted websites to another ip address like 127.0.0.1
+#that's happen by modifying the hosts file
+
+host file location 
+Mac and Linux : /etc/hosts
+Windows       : C:\Windows\System32\drivers\etc
+----------------
+#note that : anti viruses will see this app as a harmful app 
+                #as hosts file is sensitive 
+----------------
+run program as a process in background
+for windows : change save file as .pyw 
+
+to run it as soon as computer starts : 
+open windows task schedular and add it : 
+        1.modifiy trigger : begin at startup
+        2.modifiy action : create new action > start a new program & select the program
+
+------------
+for linux : crontab
+    modifiy crontab 
+    change file path to absolute path 
+            as cron run apps from another directory
