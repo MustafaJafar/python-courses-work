@@ -1,0 +1,12 @@
+{%extends "layout.html"%}
+{%block content%}
+
+<link rel="stylesheet" href="{{cdn_css | safe}}" type="text/css" />
+         
+<script type="text/javascript" src="{{cdn_js | safe}}"></script>
+<script type="text/javascript">  Bokeh.set_log_level("info");</script>
+
+ {{div1 | safe}}
+ {{script1 | safe}}
+
+{%endblock%}

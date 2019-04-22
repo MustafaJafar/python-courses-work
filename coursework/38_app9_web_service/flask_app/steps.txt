@@ -1,0 +1,7 @@
+1.create HTML web page 
+2.decorating using CSS
+3.create flask app 
+4.first milestone : form , post method 
+5.pgAdmin , connect to server , create db , ...
+6.second milestone : save data to database
+7....

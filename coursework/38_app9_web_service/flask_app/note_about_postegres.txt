@@ -1,0 +1,6 @@
+on heroku server : to access and manipulate postgres databases from terminal : 
+    1.add pg/psql.exe to path "add the whole folder"
+    2.in terminal run : 
+        heroku py:psql --app appName
+        typing any commands e.g.
+            select from data;
