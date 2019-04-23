@@ -1,0 +1,11 @@
+to stream rpi camera to local server : 'I didn't test it yet but I suppose it will work'
+	1.follow link to use camera rpi to capture frames 
+	2.modify and use code from git hub 
+
+all these files are downloaded
+
+OpenCV and Rpi camera : 'check it to pip install dependences' 
+https://www.pyimagesearch.com/2015/03/30/accessing-the-raspberry-pi-camera-with-opencv-and-python/
+
+github link : 'opencv capture and flask : stream video frame by frame to local server'
+https://github.com/log0/video_streaming_with_flask_example
