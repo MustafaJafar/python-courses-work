@@ -1,2 +1,4 @@
-*.html
-*.css
+.project
+.settings
+salesforce.schema
+Referenced Packages
