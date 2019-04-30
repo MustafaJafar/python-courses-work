@@ -1,3 +1,4 @@
+#Linux Only as no termios on Win
 import sys, tty, termios, time
 
 def getch() : 
@@ -16,10 +17,10 @@ while True :
     
     char = getch()
     if (char == "q") :
-        print "exiting program"
+        print ("exiting program")
         break  
     else :
-        print char
+        print (char)
     time.sleep(0.01)
      
 
