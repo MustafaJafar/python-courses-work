@@ -62,6 +62,10 @@ topics coverd :
 			it asks about your height , adds it to data base 
 			and send you back by email the average height
 		40_Flask_RESTfullAPI\app.py :"it's functional however it has not alot of features"
-			it's a basic api :there is a login system and  it has a data set of the users and admin can access it but he\she will see users password encrypted
-		41_Color_segmentation : its final goal is to detect white marks on someone's face , I did it as a part of my graduation project : Facial Motion Capture
-		42_python_TCP_socket : its final goal to communicate between a python program and Autodesk Maya in which a JSON string is sent and processed in Maya then animating a rig  
+			it's a basic api :there is a login system and  
+			it has a data set of the users and admin can access it
+			but he\she will see users password encrypted
+		41_Color_segmentation : its final goal is to detect white marks on someone's face , 
+			I did it as a part of my graduation project : Facial Motion Capture
+		42_python_TCP_socket : its final goal to communicate between a python program and Autodesk Maya 
+			in which a JSON string is sent and processed in Maya then animating a rig  
