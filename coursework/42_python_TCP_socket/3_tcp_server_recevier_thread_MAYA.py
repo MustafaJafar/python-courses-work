@@ -23,6 +23,7 @@ from maya.utils import executeInMainThreadWithResult
 #every thing were working fine 
 #till frames two line of code were added 
 #python code recevied : server doesn't respond 
+#solution : excute in main Maya's thread
 
 
 def trans_cmds(data):
