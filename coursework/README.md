@@ -7,7 +7,7 @@ online course and websites :
 	1>Python omega course : 00_ t0 38_
 	2>tutorials point : 39_ 
 	3>YouTube : 40_
-	4>Various Links : 41_ , 42_ 
+	4>Various Links : 41_ , 42_ , 43_
 
 these samples and FULLY functional apps covers alot of topics : 
 
@@ -69,3 +69,4 @@ topics coverd :
 			I did it as a part of my graduation project : Facial Motion Capture
 		42_python_TCP_socket : its final goal to communicate between a python program and Autodesk Maya 
 			in which a JSON string is sent and processed in Maya then animating a rig  
+		43_marker_detection : realtime markers detection and tracking
