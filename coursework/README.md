@@ -65,8 +65,8 @@ topics coverd :
 			it's a basic api :there is a login system and  
 			it has a data set of the users and admin can access it
 			but he\she will see users password encrypted
-		41_Color_segmentation : its final goal is to detect white marks on someone's face , 
+		41_python_TCP_socket : its final goal to communicate between a python program and Autodesk Maya 
+			in which a JSON string is sent and processed in Maya then animating a rig
+		42_Color_segmentation : it's a small exersice on image segmentation , threshold and blob detection  
+		43_marker_detection : its fina goal detecting white marks on someone's face , 
 			I did it as a part of my graduation project : Facial Motion Capture
-		42_python_TCP_socket : its final goal to communicate between a python program and Autodesk Maya 
-			in which a JSON string is sent and processed in Maya then animating a rig  
-		43_marker_detection : realtime markers detection and tracking
