@@ -57,7 +57,7 @@ frame_width = int(cap.get(3))
 frame_height = int(cap.get(4))
 
 # Define the codec and create VideoWriter object.The output is stored in 'outpy.avi' file.
-out = cv2.VideoWriter('marks_simulation\marks_sim_outpy_2.avi',cv2.VideoWriter_fourcc('M','J','P','G'), 10, (frame_width,frame_height))
+out = cv2.VideoWriter('marks_simulation\marks_sim_outpy_2.avi',cv2.VideoWriter_fourcc('M','J','P','G'), 24, (frame_width,frame_height))
  
 
 # Set up the detector with default parameters.
