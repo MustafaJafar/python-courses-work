@@ -68,5 +68,6 @@ topics coverd :
 		41_python_TCP_socket : its final goal to communicate between a python program and Autodesk Maya 
 			in which a JSON string is sent and processed in Maya then animating a rig
 		42_Color_segmentation : it's a small exersice on image segmentation , threshold and blob detection  
-		43_marker_detection : its fina goal detecting white marks on someone's face , 
+		43_marker_detection : its fina goal detecting white marks motion on someone's face,
+			and transfer motion data to a 3d model  
 			I did it as a part of my graduation project : Facial Motion Capture
