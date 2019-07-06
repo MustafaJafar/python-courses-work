@@ -2,7 +2,7 @@ this project is inspired by : https://github.com/oscarwestberg/Face-Tracking-May
 
 But I think that my code is easier to understand, maybe beacuse it is written in PYTHON ! 
 
-any way, Imade this project as my graduation project at
+any way, I made this project as my graduation project at
 
     University of Benha Shoubra Faculty Of Engineering
     Computer and electronics department
