@@ -1,4 +1,4 @@
-this project is inspired by : https://github.com/oscarwestberg/Face-Tracking-Maya
+This project is inspired by : https://github.com/oscarwestberg/Face-Tracking-Maya
 
 But I think that my code is easier to understand, maybe beacuse it is written in PYTHON ! 
 
@@ -23,17 +23,18 @@ the smaller goals :
     4.sort those 12 marks 
     5.track and transfer motion data of the simulated version
     6.track and transfer motion data of a real face 
+
+Note : marks are white points put on someone's face
     
 ## Algorithm    
 
 the algorithm used to detect marks :
-note : marks are white points put on someone's face
 
     1.apply color segmentation (to select specific range of colors)
     2.apply binary threshold (to more filtration)
     3.apply blob detection (to detect marks' position) 
     4.sort points to follow the refrence image
-    5.compare current marks' positions to previous marks' postions 
+    5.compare current marks' positions to previous marks' positions. 
     6.send data via socket 
     
 pieces of that algorithm can be found in the smaller goals 
@@ -62,7 +63,7 @@ Note : there are 2 source directories
                 voldmorts resultant motion of simulation
     2.marks_real_capture\source
           where you find : 
-                voldmorts resultant motion of the simple motion capture
+                voldmorts resultant motion of the simple facial motion capture
 
 the proper way to run my code : 
 
