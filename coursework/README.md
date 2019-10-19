@@ -11,7 +11,7 @@ online course and websites :
 
 these samples and FULLY functional apps covers alot of topics : 
 
-topics coverd :
+## Topics Coverd :
 	
 	Hello World
 	I/O
