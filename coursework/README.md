@@ -68,6 +68,8 @@ these samples and FULLY functional apps covers alot of topics :
 		41_python_TCP_socket : its final goal to communicate between a python program and Autodesk Maya 
 			in which a JSON string is sent and processed in Maya then animating a rig
 		42_Color_segmentation : it's a small exersice on image segmentation , threshold and blob detection  
-		43_marker_detection : its fina goal detecting white marks motion on someone's face,
+		43_marker_detection : its final goal detecting white marks motion on someone's face,
 			and transfer motion data to a 3d model  
 			I did it as a part of my graduation project : Facial Motion Capture
+		44_kuka_control_panal : it was a collage project for topic Industerial Manipulators
+			it's final goal to control kuka's joints in Vrep Simulator from python GUI
