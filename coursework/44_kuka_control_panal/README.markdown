@@ -12,7 +12,11 @@
     3.Interminal: run python script: Kuka_control_panel.py
     
 ### watch the demo 
-    https://vimeo.com/393621221
+[![Kuka Robot Test](https://user-images.githubusercontent.com/20871534/75229630-fdb12500-57ba-11ea-9e58-d8789a48127b.jpg)](https://vimeo.com/393621221)
+    
+    
+    
+    
 
 ### P.S.
     I tried adding a pyplot to show the robot's camera but I couldn't
