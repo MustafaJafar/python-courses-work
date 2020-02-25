@@ -7,7 +7,7 @@ The main purpose of this Repo is educational.
 ## In this Repo :
 ### Python Course  
 in this you would find 
-my python omega course work
+my python mega course work
 plus some extra tutorials
 
 ### Raspberry pi 
