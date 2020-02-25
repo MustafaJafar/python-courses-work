@@ -1,7 +1,7 @@
 ## This is a collage project for Topic : Industrial Manipulators
     This topic was covered in the 4th academic year under subject: "Industrial Manipulators & Mobile Robots"
 
-# Kuka Python Control Panal 
+# Kuka Python Control Panel 
     Objective :
        1.Connect Vrep Simulator to a python script
        2.python GUI to control Kuka's 7 joints each has rotation range -180 to 180 degrees  
@@ -12,7 +12,7 @@
     3.Interminal: run python script: Kuka_control_panel.py
     
 ### Watch Demo 
-<a href="https://vimeo.com/393621221" target="_blank"><img src="https://user-images.githubusercontent.com/20871534/75229630-fdb12500-57ba-11ea-9e58-d8789a48127b.jpg" alt="Kuka control panal" width="960" height="540" border="10" /></a>
+<a href="https://vimeo.com/393621221" target="_blank"><img src="https://user-images.githubusercontent.com/20871534/75229630-fdb12500-57ba-11ea-9e58-d8789a48127b.jpg" alt="Kuka control panel" width="960" height="540" border="10" /></a>
 
 ### P.S.
     I tried adding a pyplot to show the robot's camera but I couldn't
