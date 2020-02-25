@@ -1,5 +1,5 @@
-## This is a collage project for Topic : Industerial Manipulators
-    This topic was covered in the 4th academic year under subject: "Industerial Manipulators & Mobile Robots"
+## This is a collage project for Topic : Industrial Manipulators
+    This topic was covered in the 4th academic year under subject: "Industrial Manipulators & Mobile Robots"
 
 # Kuka Python Control Panal 
     Objective :
