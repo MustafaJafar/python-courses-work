@@ -1,0 +1,17 @@
+# ignore all of these:
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.txt
+*.html
+*.dll
+*.ttt
+
+*.xml
+*.bat
+*.md
+*.csv
+*.json
+*.css
+
