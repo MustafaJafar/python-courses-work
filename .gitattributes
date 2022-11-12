@@ -1,16 +1,23 @@
+*.csv linguist-vendored
+*.html linguist-vendored
+*.xml linguist-vendored
+*.css linguist-vendored
+*.bat linguist-vendored
+*.md linguist-vendored
+*.json linguist-vendored
+
 *.pdf linguist-vendored
 *.png linguist-vendored
 *.jpg linguist-vendored
 *.jpeg linguist-vendored
 *.txt linguist-vendored
-*.html linguist-vendored
+
 *.dll linguist-vendored
 *.ttt linguist-vendored
 
-*.xml linguist-vendored
-*.bat linguist-vendored
-*.md linguist-vendored
-*.csv linguist-vendored
-*.json linguist-vendored
-*.css linguist-vendored
+*.ipynb linguist-language=Python
+
+
+
+
 
