@@ -1,0 +1,5 @@
+Pillow
+Flask
+Flask-Uploads 
+Flask-WTF 
+WTForms

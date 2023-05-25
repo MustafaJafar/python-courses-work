@@ -7,7 +7,7 @@ online course and websites :
 	1>Python omega course : 00_ t0 38_
 	2>tutorials point : 39_ 
 	3>YouTube : 40_
-	4>Various Links : 41_ , 42_ , 43_
+	4>Various Links : 41_ , 42_ , 43_ 
 
 these samples and FULLY functional apps covers alot of topics : 
 
@@ -73,3 +73,4 @@ these samples and FULLY functional apps covers alot of topics :
 			I did it as a part of my graduation project : Facial Motion Capture
 		44_kuka_control_panal : it was a collage project for topic Industerial Manipulators
 			it's final goal to control kuka's joints in Vrep Simulator from python GUI
+		45_Machine_Learning_example : a simple scikit example 
